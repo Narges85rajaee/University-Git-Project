@@ -1,0 +1,5 @@
+Login Feature
+
+This feature allows students
+to enter the system using
+their username and password.
